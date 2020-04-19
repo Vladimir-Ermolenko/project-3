@@ -1,2 +1,2 @@
-# project3
-Третий проект по программированию первый семестр 2019 года
+Helps to understand how to invest to get bigger margin.
+(learning "if + else")
